@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="/portada.jpg" alt="Logo_personal" width="300">
-   <img src="/portada.jpg" alt="Logo_personal" height="200">
+   <img src="/portada.jpg" alt="Logo_personal" height="300">
 </p>
 
 
