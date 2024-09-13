@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/Logo-personal_Fondo_blanco.png" alt="Logo_personal">
+  <img src="/portada.jpg" alt="Logo_personal">
 </p>
 
 <div align="center">
@@ -21,5 +21,5 @@ Clasificación de imágenes: El modelo clasifica la imagen subida como Adidas o 
 Predicciones en tiempo real: Las predicciones se realizan inmediatamente después de subir la imagen.
 
 <p>
-  <img src="/images/output.png" alt="Grafico readme">
+  <img src="/graficando_categorias.png" alt="Grafico readme">
 </p>
