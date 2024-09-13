@@ -3,8 +3,8 @@
 </p>
 
 <div align="center">
-  <h1 align="center">Binomial logistic regression<h1>
-  <h4 align="center">Diagnostic breast cancer Wisconsin</h4>
+  <h1 align="center">Modelo de Computer Vision Alexnet5<h1>
+  <h4 align="center">Adidas vs Nike  image Classifier</h4>
 </div>
 
 By: Yadkomateo
