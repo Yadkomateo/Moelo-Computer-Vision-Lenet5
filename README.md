@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="/portada.jpg" alt="Logo_personal">
+  <img src="/portada.jpg" alt="Logo_personal" width="300">
+   <img src="/portada.jpg" alt="Logo_personal" height="200">
 </p>
+
 
 <div align="center">
   <h1 align="center">Modelo de Computer Vision Alexnet5<h1>
